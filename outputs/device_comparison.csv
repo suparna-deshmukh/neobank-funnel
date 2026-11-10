@@ -1,0 +1,4 @@
+device,users_who_started_kyc,users_completed_kyc,kyc_completion_rate,avg_selfie_sec
+ios,5045,2548.0,50.5,29.7
+android,8477,4253.0,50.2,64.4
+web,3295,1633.0,49.6,44.9

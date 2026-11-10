@@ -1,0 +1,6 @@
+step_order,step_name,users,pct_of_top,pct_of_prev,dropoff_pct
+1,KYC started,16817.0,100.0,,
+2,PAN submitted,15604.0,92.8,92.8,7.2
+3,Aadhaar submitted,11827.0,70.3,75.8,24.2
+4,Selfie submitted,9420.0,56.0,79.6,20.4
+5,KYC completed,8434.0,50.2,89.5,10.5

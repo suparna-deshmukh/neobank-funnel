@@ -1,0 +1,5 @@
+dropped_at,dropoff_users,avg_duration_sec,pct_android,pct_ios,pct_web,pct_had_rejection
+After KYC started,1213,19.5,49.1,31.1,19.9,31.4
+After PAN submitted,3777,89.1,50.6,29.5,19.9,5.9
+After Aadhaar submitted,2407,99.7,50.4,30.2,19.4,5.9
+After Selfie submitted,986,50.7,51.3,28.4,20.3,4.9

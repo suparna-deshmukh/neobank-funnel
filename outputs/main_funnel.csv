@@ -1,0 +1,6 @@
+step_name,users,pct_of_top,pct_of_prev,dropoff_pct
+Signup completed,28477.0,100.0,,
+Email verified,24233.0,85.1,85.1,14.9
+KYC started,16817.0,59.1,69.4,30.6
+KYC completed,8434.0,29.6,50.2,49.8
+First transaction,7153.0,25.1,84.8,15.2
